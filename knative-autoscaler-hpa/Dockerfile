@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler-hpa:v0.11.1
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler-hpa:v1.0.0
 MAINTAINER lijian@zhito.com
