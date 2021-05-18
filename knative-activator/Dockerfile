@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/activator:v0.11.1
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/activator:v1.0.0
 MAINTAINER lijian@zhito.com
