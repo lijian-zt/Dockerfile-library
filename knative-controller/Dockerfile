@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:5ca13e5b3ce5e2819c4567b75c0984650a57272ece44bc1dabf930f9fe1e19a1
-MAINTAINER lijian@zhito.com
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:b049234187c3a8035a6196344a2759244dc421822ac39738113e3aedf3eb8374
+MAINTAINER likang<komlei122@163.com>
